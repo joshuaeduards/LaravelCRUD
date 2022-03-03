@@ -1,0 +1,11 @@
+.img-parent-container {
+    width: 160px;
+    height: 145px;
+    overflow: hidden;
+    border: 1px solid black;
+  }
+  
+ .img-child {
+      width: 100%;
+      min-height: 100%;
+  }
